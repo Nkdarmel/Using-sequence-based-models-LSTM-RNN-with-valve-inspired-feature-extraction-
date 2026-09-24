@@ -1,6 +1,6 @@
 # Using-sequence-based-models-LSTM-RNN-with-valve-inspired-feature-extraction-
 
-
+[![GitHub Stars](https://img.shields.io/github/stars/Nkdarmel/Using-sequence-based-models-LSTM-RNN-with-valve-inspired-feature-extraction.svg?style=social)](https://github.com/Nkdarmel/Using-sequence-based-models-LSTM-RNN-with-valve-inspired-feature-extraction)
 
 ## About
 
