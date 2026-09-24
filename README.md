@@ -24,7 +24,7 @@ Our approach is based on the idea that by analyzing temporal patterns in network
 
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge)]([https://github.com/yourusername/repositoryname](https://github.com/Nkdarmel/Using-sequence-based-models-LSTM-RNN-with-valve-inspired-feature-extraction)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge)](https://github.com/Nkdarmel/Using-sequence-based-models-LSTM-RNN-with-valve-inspired-feature-extraction)
 
 ---
 
